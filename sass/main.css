@@ -2,6 +2,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: #7b7b7b;
+  font-family: 'Patrick Hand', cursive;
 }
 
 .container {
@@ -20,5 +21,10 @@ body {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+}
+
+.container span {
+  font-size: 30px;
+  color: #333;
 }
 /*# sourceMappingURL=main.css.map */

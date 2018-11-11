@@ -3,11 +3,11 @@ var canv = document.getElementById("canvas"),
     w = 600,
     h = 600,
     R = 180
-    r = 90,
-    d = 80,
+    r = 100,
+    d = 70,
     teta = 0;
 var timer;  
-var t = 100;
+var t = 4;
 var myColor = 'lime';
 
 document.getElementById("Rvalue").textContent = 'R: ' + R;
